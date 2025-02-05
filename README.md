@@ -34,114 +34,84 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<div align="left">
-📌 Programming Languages – Python, JavaScript, C++
-📌 Data Science & Analytics – SQL, Statistics, MongoDB, Machine Learning
-📌 Cloud Computing – AWS IAM Policies & Permissions
-📌 Digital Marketing (Kyuki tu 21Digby ke liye apply karne ka soch raha tha)
-📌 Automation & AI – ML models, Automation tools
-📌 Excel & Office Tools – MS Excel, Word, PowerPoint (Data Entry Internship ke liye)
+<div align="center">
+<p>Hey there! I'm <b>Nakul</b>, a <b>BSc Data Science student (2nd year)</b> with a strong passion for <b>AI, Machine Learning, Data Science,</b> and <b>Web Development</b>. I enjoy front-end development occasionally, crafting visually appealing and interactive user interfaces.</p>
+	
+<p>I have hands-on experience with various coding tools and technologies, including:</p>
+<p>💻 <b>Programming & Data Tools:</b> Python, SQL, MongoDB, Power BI, Excel</p>
+<p>🤖 <b>AI & ML:</b> Machine Learning, Statistics, Data Analytics, Automation</p>
+<p>🌐 <b>Web Development:</b> HTML, CSS, JavaScript, React, ASP.NET</p>
+<p>📂 <b>Version Control & Cloud:</b> GitHub, AWS, Odoo</p>
+
+<p>My GitHub repository features multiple projects, including a <b>Netflix Clone, game projects,</b> a <b>Sentiment Analysis tool for social media,</b> and more. I love creating solutions that blend innovation with efficiency.</p>
+
+<p>When I’m not coding, you'll find me <b>reading books 📚, listening to music 🎵,</b> or exploring the latest tech trends. I'm always looking to <b>learn, collaborate,</b> and build something impactful!</p>
+
+<p>🚀 <b>Let’s connect and innovate together!</b></p>
+
 
 
 </div>
 
 </details>
-
-<details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" title="CSS" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL"/>
- 
-    </kbd>
+ <details>
+  <summary>Tools</summary>
+  <div align="center">
     
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" title="Memcached"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ"/>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Automation, Data Science & AI</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
-    </kbd>
-    <kbd>
-      <kbd>Operating System, Networking & Deployment</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
-      <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
-  </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
-    </kbd>
-  </p>
-</div>
+<kbd>Programming Languages</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL" />
+    <br><br>
+
+ <kbd>Front-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" title="HTML"/> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS" title="CSS"/>  
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="ReactJS"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+    <br><br>
+
+<kbd>Database</kbd>
+    <br><br>
+    <img width="50px" src="https://github.com/user-attachments/assets/74e664af-012f-4040-90f8-6d28429793c6" alt="MySQL" title="MySQL"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="MongoDB" title="MongoDB"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+    <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" title="Oracle"/>
+    <br><br>
+
+<kbd>Cloud & Deployment</kbd>
+    <br><br>
+    <img width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Google_Cloud_Logo.svg/2560px-Google_Cloud_Logo.svg.png" alt="GCP" title="GCP"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" title="Git"/>
+    <br><br>
+
+<kbd>AI & Data Science</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Cloud_ML_Logo.svg" alt="Machine Learning" title="Machine Learning"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Statistics_Logo.png" alt="Statistics" title="Statistics"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Natural_language_processing_logo.png" alt="NLP" title="NLP"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Neural_network.svg" alt="Neural Network" title="Neural Network"/>
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Deep_learning_logo.png" alt="Deep Learning" title="Deep Learning"/>
+    <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
+    <img width="30px" src="https://www.deepseek.com/logo.png" alt="Deepseek" title="Deepseek"/>
+    <br><br>
+
+<kbd>Tools</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VS Code"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" title="PyCharm IDE"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spyder/spyder-original.svg" alt="Spyder" title="Spyder"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" alt="Replit" title="Replit"/>
+    <br><br>
+    
+  </div>
 </details>
 
 <details>
