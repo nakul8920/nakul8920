@@ -25,7 +25,7 @@
       <img height="200" alt="Avatar photo of me" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of me">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+nakul;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -83,7 +83,7 @@
 <kbd>Cloud & Deployment</kbd>
     <br><br>
     <img width="30px" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Google_Cloud_Logo.svg/2560px-Google_Cloud_Logo.svg.png" alt="GCP" title="GCP"/>
+    <img width="30px" src="https://github.com/user-attachments/assets/826ee537-7a90-4411-809b-0aec43b66cf7" alt="GCP" title="GCP"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" title="Git"/>
     <br><br>
 
@@ -91,13 +91,10 @@
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy"/>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Google_Cloud_ML_Logo.svg" alt="Machine Learning" title="Machine Learning"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Statistics_Logo.png" alt="Statistics" title="Statistics"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Natural_language_processing_logo.png" alt="NLP" title="NLP"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/56/Neural_network.svg" alt="Neural Network" title="Neural Network"/>
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Deep_learning_logo.png" alt="Deep Learning" title="Deep Learning"/>
+    <img width="30px" src="https://github.com/user-attachments/assets/5520820d-15b2-4986-a963-dc9d61927946" alt="Machine Learning" title="Machine Learning"/>
+    <img width="30px" src="https://github.com/user-attachments/assets/97a1d89b-41e4-488d-8cd7-87e4bd76e691" alt="Statistics" title="Statistics"/>
     <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
-    <img width="30px" src="https://www.deepseek.com/logo.png" alt="Deepseek" title="Deepseek"/>
+    <img width="30px" src="https://crystalpng.com/wp-content/uploads/2025/01/deepseek-logo-01.png" alt="Deepseek" title="Deepseek"/>
     <br><br>
 
 <kbd>Tools</kbd>
@@ -116,25 +113,23 @@
 
 <details>
   <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
+  <h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nakul8920&show_icons=true&theme=dark&locale=en&layout=compact" alt="nakul8920" /></p>
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=nakul8920&show_icons=true&theme=dark&locale=en" alt="nakul8920" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+	
 </details>
 
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details>
+
 
 <details>
-  <summary>Quote</summary>
+  <summary>Quote of the day</summary>
   <br>
   <blockquote>
     “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
