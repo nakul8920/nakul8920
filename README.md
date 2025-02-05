@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 MasterJudah here 🔥!
 
-<!--
-**nakul8920/nakul8920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙏 Namaste, I'm Joshua Thadi
 
-Here are some ideas to get you started:
+### 🔹 About Me
+- 💻 I work on Front-end & ASP.NET development.
+- 🎓 Pursuing a degree in Computer Science.
+- 🤖 Interest: AI, ML, Data Science & Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Languages & Tools
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+... (aur bhi add kar sakte ho)
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterjudah&show_icons=true&theme=dark)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=masterjudah&theme=dark)
+
+### 📌 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masterjudah&layout=compact&theme=dark)
+
+---
+
+### ☕ Support Me
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-orange?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/masterjudah)
