@@ -25,7 +25,7 @@
       <img height="200" alt="Avatar photo of me" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of me">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+nakul;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+nakul;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Data+Engineer;front end+and+web+Developer;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -155,21 +155,12 @@
 
 ## Let's Work on Your Project Together!
 
-If you have any coding-related problems, If I can solve them, I will definitely help you. feel free to ask me <a href="mailto:nakuljangid99@gmail.com">contact me by email</a>, I won't bite, I promise.
-
+If you have any coding-related problems, if I can solve them, I will definitely help you. Feel free to ask me or <a href="mailto:nakuljangid99@gmail.com">contact me by email</a> – I won't bite, I promise.
+  
   </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
+</tr>
 </table>
+
 </details>
 
 </details>
